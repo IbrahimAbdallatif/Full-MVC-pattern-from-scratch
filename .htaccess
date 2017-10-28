@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /ibrahim/laracasts/
+RewriteRule ^.*$ index.php [END]
